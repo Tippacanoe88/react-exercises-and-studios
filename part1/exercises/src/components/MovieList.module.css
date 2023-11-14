@@ -1,7 +1,10 @@
 .movieText {
-   color: black;
+   color: red;
+   font-size: 30px;
+   padding-right: 400px;
 }
 
 .movieHeading {
-   color: black;
+   color: green;
+   padding-right: 450px;
 }
